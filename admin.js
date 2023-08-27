@@ -4,7 +4,7 @@
 function updateTermsLinkText() {
     const termsLink = document.getElementById('termsLink');
     if (termsLink) {
-        termsLink.textContent = 'Al utilizar nuestro servicio, aceptas nuestros terminos y condiciones';
+        termsLink.textContent = 'Novedades:  Ya puedes descargar videos de youtube en Mp3.';
     }
 }
 
