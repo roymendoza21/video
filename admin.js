@@ -1,6 +1,6 @@
 // textUpdater.js
 
-// Función para actualizar el texto en el enlace de términos de servicio ACTUALMENTE LA FUNCION NO ESTA DISPONIBLE
+// Función para actualizar e  nose que decir, pero es una nueva actualización. m l texto en el enlace de términos de servicio ACTUALMENTE LA FUNCION NO ESTA DISPONIBLE
 function updateTermsLinkText() {
     const termsLink = document.getElementById('termsLink');
     if (termsLink) {
