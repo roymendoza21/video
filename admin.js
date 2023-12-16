@@ -4,7 +4,7 @@
 function updateTermsLinkText() {
     const termsLink = document.getElementById('termsLink');
     if (termsLink) {
-        termsLink.textContent = 'Novedades: Ahora ya puedes descargar videos (nueva actualización  2023 para nosotros, a celebrar jajajaj yopi ypi, new update 2024 de youtube en Mp3.';
+        termsLink.textContent = 'Novedades: Ahora ya puedes descargar videos (nueva actualización  2024 no hay actualizaciones pero si nuevos cambios en la plataforma para seguir mejorando el sistema para nuevaa funcionalidad, nuevo parche 2024 para nosotros, a celebrar jajajaj yopi ypi, new update 2024 de youtube en Mp3.';
     }
 }
 
