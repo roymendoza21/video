@@ -8,7 +8,7 @@ function updateTermsLinkText() {
     }
 }
 
-// Llama a la función cuando la página se carga completamente,la versión actual se está corrigiendo.
+// Llama a la función cuando la página se carga completamente,la versión actual se está corrigiendo, nuevo completamento añadido a esta nueva version.
 window.onload = function() {
     updateTermsLinkText();
 };
